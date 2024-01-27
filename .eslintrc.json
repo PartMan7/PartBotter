@@ -39,6 +39,7 @@
 						"multilineDetection": "brackets"
 					}
 				],
+        "@typescript-eslint/no-namespace": 0,
 				"@typescript-eslint/no-unused-vars": 1
 			}
 		}
